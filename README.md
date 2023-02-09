@@ -3,7 +3,7 @@ Android uygulama geliştirmek için kotlinde ve tasarım alanlarında kendimi ge
 
 ⏳ Șu an aktif olarak Android uygulama geliştme için kotlin uygulamaları geliştiriyorum.
 
-💻 Yazılım hayatımın ilk zamanından bu yana kendimi belirli bir seviyeye getirsemde azimle öğrenmem gerek çok şey olduğunu söyleyebilirim.
+💻 Yazılım hayatımın ilk zamanından bu yana kendimi belirli bir seviyeye getirsemde öğrenmem gereken çok şey olduğunu söyleyebilirim.
 
 🖌️ Ayrıca posterler, sektörel tasarımlar, UI/UX Tasarımlar, video editleri, tanıtım videoları ve giriş introları gibi işlerde yapıyorum.
 
