@@ -1,5 +1,6 @@
 👍 Merhaba ben Ufuk Karatoprak. İstanbul Galata üniversitesi yönetim bilişim sistemleri 3. sınıf öğrencisiyim.
 Android uygulama geliştirmek için kotlinde ve tasarım alanlarında kendimi geliştirmekteyim. Güncel teknolojileri yakından takip ediyorum.
+
 ⏳ Șu an aktif olarak Android uygulama geliştme için kotlin uygulamaları geliştiriyorum.
 
 💻 Yazılım hayatımın ilk zamanından bu yana kendimi belirli bir seviyeye getirsemde azimle öğrenmem gerek çok şey olduğunu söyleyebilirim.
