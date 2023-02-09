@@ -1,8 +1,8 @@
 👍 Merhaba ben Ufuk Karatoprak. İstanbul Galata üniversitesi yönetim bilişim sistemleri 3. sınıf öğrencisiyim.
-Android uygulama geliştirmek için kotlinde ve tasarım alanlarında kendimi geliştirmekteyim.Güncel teknolojileri yakından takip ediyorum.
-⏳ Șu an aktif olarak Android uygulama geliştme için kotlin uygulamaları gelistiriyorum.
-💻 Yazılım hayatımın ilk zamanından bu yana kendimi belirli bir seviyeye getirsemde azimle öğrenmem gerek çok şey olduğunu söyleyebilirim.
-🖌️ Ayrıca posterler, sektörel tasarımlar, UI/UX Tasarımlar, video editleri, tanıtım videoları ve giriş introları gibi işlerde yapıyorum.
+Android uygulama geliştirmek için kotlinde ve tasarım alanlarında kendimi geliştirmekteyim.Güncel teknolojileri yakından takip ediyorum.\n
+⏳ Șu an aktif olarak Android uygulama geliştme için kotlin uygulamaları gelistiriyorum.\n
+💻 Yazılım hayatımın ilk zamanından bu yana kendimi belirli bir seviyeye getirsemde azimle öğrenmem gerek çok şey olduğunu söyleyebilirim.\n
+🖌️ Ayrıca posterler, sektörel tasarımlar, UI/UX Tasarımlar, video editleri, tanıtım videoları ve giriş introları gibi işlerde yapıyorum.\n
 
 <!--
 **ufukkaratoprak/ufukkaratoprak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
