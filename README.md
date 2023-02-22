@@ -5,7 +5,7 @@ Android uygulama geliştirmek için kotlinde ve tasarım alanlarında kendimi ge
 
 💻 Yazılım hayatımın ilk zamanından bu yana kendimi belirli bir seviyeye getirsemde öğrenmem gereken çok şey olduğunu söyleyebilirim.
 
-🖌️ Ayrıca posterler, sektörel tasarımlar, UI/UX Tasarımlar, video editleri, tanıtım videoları ve giriş introları gibi işlerde yapıyorum.
+🖌️ Ayrıca posterler, sektörel tasarımlar, UI/UX Tasarımlar, video editleri, tanıtım videoları ve giriş introları gibi tasarım işlerinide yapıyorum.
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ufuk-karatoprak-a1a7531ab/)
 
