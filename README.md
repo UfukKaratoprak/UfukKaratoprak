@@ -1,4 +1,4 @@
-👍 Merhaba ben Ufuk Karatoprak. İstanbul Galata Üniversitesi Yönetim Bilişim Sistemleri mezunuyum.
+👍 Merhaba ben Ufuk, İstanbul Galata Üniversitesi Yönetim Bilişim Sistemleri mezunuyum.
 Mobil uygulama geliştirme, Veri bilimi ve Siber Güvenlik alanlarına ilgiliyim ama Unity üzerinden oyunlar üretmek benim için bir tutku.
 
 ⏳ Șu an aktif olarak Unity üzerinden temel seviyede mobil oyunlar yapıyorum.
